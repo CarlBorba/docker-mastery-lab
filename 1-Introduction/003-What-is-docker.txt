@@ -1,0 +1,6 @@
+Oque é Docker?
+
+- Facilita o setup completo de uma aplicação;
+- Onde se configura os containers;
+- Facilita isolamento de ambientes, exemplo banco de dados/aplicação;
+- Possibilita usar diversos OS's.
