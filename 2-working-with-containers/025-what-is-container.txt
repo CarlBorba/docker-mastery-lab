@@ -1,0 +1,5 @@
+Oque é um container?
+
+- Container é a execussão de uma imagem, que pode rodar uma aplicação etc;
+- Os projetos são executados DENTRO de containers;
+- É possivel executar multiplos containers, com conteúdos diferentes.
