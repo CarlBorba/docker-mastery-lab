@@ -1,0 +1,4 @@
+Rodando um container
+- docker pull whalesay //Aqui estou baixando uma imagem
+- docker run docker/whalesay cowsay Hello Word  //Aqui estou rodando uma imgaem que foi baixada, passando os parâmtros de execução dela.
+- Quando você tentar rodar uma imagem, o Docker tenta sempre rodar ela localmente primeiro
