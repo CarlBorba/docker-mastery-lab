@@ -1,0 +1,4 @@
+Matrix from hell
+- Sem Docker, seria necessário instalar e configurar todas dependências, linguagens, frameworks etc, em todas as máquinas que fosem rodar o projeto;
+- Servidores, funcionarios, núvem etc, uma configuração para cada;
+- Com o Docker, a imagem e os containers rodam em qualquer lugar.
