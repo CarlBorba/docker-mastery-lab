@@ -1,0 +1,6 @@
+Por que usar Docker?
+
+- Velocidade de configuração
+- Menos manutenção
+- Performático, mais que uma VM
+- Livre de Matrix from hell
