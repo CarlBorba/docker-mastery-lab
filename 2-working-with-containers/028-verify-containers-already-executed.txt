@@ -1,0 +1,4 @@
+Verify containers already executed
+
+"docker ps" ou "docker container ls" //Exibe os containers que ESTÃO SENDO executados
+"docker ps -a" ou "docker container ls -a" //Exibe os conteiners que JÁ FORAM executados
