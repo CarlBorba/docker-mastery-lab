@@ -1,0 +1,5 @@
+Container x Imagem
+
+- Imagem é um projeto que será executado pelo container;
+- Container é o Docker rodando alguma imagem;
+- Montamos uma imagem que será executada por meio de um container.
