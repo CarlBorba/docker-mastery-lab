@@ -1,0 +1,3 @@
+Stopping containers
+
+docker stop <id ou nome> // para parar um container que está rodando;

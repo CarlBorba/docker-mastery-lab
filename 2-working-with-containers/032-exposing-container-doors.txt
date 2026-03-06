@@ -1,0 +1,5 @@
+Exposing container doors
+
+- Os containers não possuem conexão com o mundo externo, portanto temos que axpor portas para que seja possível o acesso;
+- flag -p para expor portas;
+- docker run -p 3000:80 <image> //expondo a porta 3000 do meu pc, recebndo a porta 80 do container

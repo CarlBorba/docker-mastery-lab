@@ -1,0 +1,4 @@
+Restarting containers
+
+- docker start <id> // inicia um container que já foi criado;
+- Lembrando que o "docker run" sempre cria um novo container.
