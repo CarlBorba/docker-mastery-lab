@@ -1,0 +1,5 @@
+Running a container in detached mode(background)
+
+- Usar a flag "-d"(detached) // para roda containers em background;
+- Quando usar o docker ps, os containers em background também irão aparecer.
+- Docker stop <container_name> // parar um container
