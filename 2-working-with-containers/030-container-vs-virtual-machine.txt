@@ -1,0 +1,5 @@
+Container vs Virtual Machine(VM)
+
+- Container não tem um sistema operacional, é apenas uma aplicação que executa determinada função, seu tamanho é apenas alguns mbs;
+- VM possui um sistema operacional próprio, com tamanho de gbs, pode executar diversas funções ao mesmo tempo;
+- Em reusmo, um container é voltado para uma aplicação específica, otimizando tempo de instalação e migrações, já uma VM é mais utilizada para grandes ecossistemas com muitas funções.

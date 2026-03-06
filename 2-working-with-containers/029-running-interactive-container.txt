@@ -1,0 +1,3 @@
+Running interactive containers
+
+ docker run -it <image>
