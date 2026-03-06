@@ -1,0 +1,4 @@
+Defining containers name
+
+- A flag --name defini qual o nome do containers
+- Exemplo: "docker run --name fastapi_app"

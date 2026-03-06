@@ -1,0 +1,4 @@
+Removing container
+
+- docker -rm <id>  // Remove o container por id;
+- Utilizar a flag -f para forçar a remoção de um container em execução.

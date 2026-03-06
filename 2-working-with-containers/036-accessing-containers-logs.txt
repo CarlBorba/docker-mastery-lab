@@ -1,0 +1,4 @@
+Accessing containers log
+
+- docker logs <id> // Verificar oque aconteceu com um container, as ultimas ações, erros etc;
+- docker logs -f <id>  // Fica exbindo os logs.
