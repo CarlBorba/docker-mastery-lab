@@ -1,0 +1,3 @@
+More information about commands
+
+- flag "--help" é utilizada para obter informações sobre um comando e suas opções;

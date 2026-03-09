@@ -1,0 +1,4 @@
+Downloading images
+
+- docker pull <image>  // Comando para baixar imagens do hub
+- Deixando-a salva localmente para agilizar criação de containers

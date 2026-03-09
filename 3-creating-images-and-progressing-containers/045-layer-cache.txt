@@ -1,0 +1,3 @@
+Layers cache
+- As imagens do Docker são dividas em layers onde cada comando é uma layers;
+- Quando há alteração em alguma linha do Dockerfile, será utilizado o cache das layers anteriores a ela, e atualizado as posteriores no rebuild.
