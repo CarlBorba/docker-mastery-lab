@@ -1,0 +1,6 @@
+What is a image
+
+- Imagens são instruções para rodar um container;
+- São originadas de arquivos que programamos;
+- Podem conter imagens base, diretóro base, comandos a serem executados, porta da aplicação, etc;
+- Ao rodar um container baseado em uma imagem, as instruçõesseram executadas em camadas.

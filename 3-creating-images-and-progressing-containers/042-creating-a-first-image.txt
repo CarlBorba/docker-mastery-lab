@@ -1,0 +1,8 @@
+Creating a first image
+
+- Criar um arquivo "Dockerfile" na raiz do projeto
+- Instruções a serem usadas no Dockerfile:
+    - FROM: imagem base;
+    - WORKDIR: diretório da aplicação que vai ser executado;
+    - EXPOSE: expor porta da aplicação;
+    - COPY: quais arquivos precisam ser copiado para usar no container

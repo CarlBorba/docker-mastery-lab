@@ -1,0 +1,5 @@
+Running a first image
+
+- Para executar uma imagem primeiro ela precisar ser "buildada" a partir de um Dockerfile
+- docker build <diretório da imagem>  // Comanda para buildar a imagem
+- docker run <imagem>  // Roda a imagem

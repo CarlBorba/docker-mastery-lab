@@ -1,0 +1,4 @@
+How to choose a image
+
+- Procurar no site oficial do docker: https://hub.docker.com;
+- Optar por imagens oficiais do Docker;
