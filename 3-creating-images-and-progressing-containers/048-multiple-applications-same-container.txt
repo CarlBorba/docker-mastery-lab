@@ -1,0 +1,5 @@
+Multiple applications in the same container
+
+- É possível rodar vários cotainers usando uma mesma imagem;
+- Rodarão em paralelo;
+- Basta dar o docker run, e colocar portas diferentes, será possível acessar os multiplos processos.

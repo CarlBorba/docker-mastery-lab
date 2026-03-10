@@ -1,0 +1,4 @@
+Naming images on build
+
+- Podemos nomear a imagem na sua criação também;
+- docker build -t <nome> // Usada para definir o nome da imagem buildada.

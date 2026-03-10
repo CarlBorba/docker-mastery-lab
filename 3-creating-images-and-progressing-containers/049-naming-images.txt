@@ -1,0 +1,4 @@
+Naming images
+
+- docker tag <id> <nome>  // Para nomear uma imagem;
+- docker tag <nome>:<tag>  // Para adicionar tags, como se fosse versão das imagens;
