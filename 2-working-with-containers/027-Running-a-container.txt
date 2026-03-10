@@ -1,4 +1,4 @@
 Running a container
 
 - https://hub.docker.com  //Site oficial de imagens do docker.
-- docker run -it <imagem>  //Comando para rodar uma imagem. Ps: <-ps> manter a imagem rodando.
+- docker run -it <imagem>  //Comando para rodar uma imagem. Ps: <-it> manter a imagem rodando.
