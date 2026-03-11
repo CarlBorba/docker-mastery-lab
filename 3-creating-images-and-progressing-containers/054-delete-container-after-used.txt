@@ -1,0 +1,3 @@
+Delete a container after be used
+
+- docker run --rm <container> // Deleta o container automaticamente ao para-lo

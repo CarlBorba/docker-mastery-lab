@@ -1,0 +1,4 @@
+Deleting images
+
+- docker rmi <imagem>  // Para deletar imagens
+- docker rmi -f <imagem> //Forçar o delete de uma imagem que está sendo usada execução 
