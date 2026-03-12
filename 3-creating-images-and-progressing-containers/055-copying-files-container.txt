@@ -1,0 +1,3 @@
+Copying files between containers
+
+- docker cp <imagem>:<diretório_no_container> <diretório_local>  // Para copiar arquivos do container para um diretório local

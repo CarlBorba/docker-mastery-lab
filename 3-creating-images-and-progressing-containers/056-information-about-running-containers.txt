@@ -1,0 +1,4 @@
+Get information about running containers
+
+- docker top <container> // Verifica dados de containers em execução(id do processo, descrição, etc)
+- docker inspect <container> // Retorna mais informações sobre o container, como exemplo informações de config.

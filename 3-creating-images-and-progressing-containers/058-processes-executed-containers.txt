@@ -1,0 +1,3 @@
+Verify processes executed in a container
+
+- docker stats // Verificar os processos que estão sendo executados em um container e os consumos dele.
