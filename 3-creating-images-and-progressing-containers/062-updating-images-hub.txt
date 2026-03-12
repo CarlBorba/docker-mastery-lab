@@ -1,0 +1,5 @@
+Updating images in the Docker Hub
+
+- Precisa buildar a imagem, porem alterar a tag dela.
+- As tags são usadas justamente para marcar versões.
+- Fazer o push dela novamente

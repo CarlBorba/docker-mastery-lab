@@ -1,0 +1,4 @@
+Docker Hub authentication to up images
+
+- docker login // Mandar login e senha para logar no terminal.
+- docker logout // Para deslogar.

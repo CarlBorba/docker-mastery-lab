@@ -1,0 +1,7 @@
+Sending a image to Docker Hub
+
+- Precisa estar logado no terminal primeiro.
+- Criar um repositório no Docker Hub para subir a imagem.
+- Quando for buildar a imagem, utilizar o exato nome do Docker Hub, exemplo: "<user>/<name>".
+- docker push <imagem>  // Comando para subir a imagem.
+- docker pull <imagem  // Comando para baixar imagem do Docker Hub.
