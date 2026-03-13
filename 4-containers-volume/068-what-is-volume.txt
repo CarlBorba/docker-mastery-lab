@@ -1,0 +1,5 @@
+What is volumes?
+
+- Volumes tem como principal objetivo a persistência de dados.
+- Todo dado criado dentro de um container fica salvo nele, porem quando é removido, perdemos os dados.
+- Com volumes é possivel gerenciar esses dados separadamente e fazer backups de forma mais simples.

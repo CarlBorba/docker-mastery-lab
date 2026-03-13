@@ -1,0 +1,7 @@
+Named volumes
+
+- docker run -v nomeDoVolume:/data  // Criando um volume com um nome. 
+- O diretório para salvar o volume tem que ser igual ao workdir do dockerfile.
+- Exemplo:
+    WORKDIR /app/
+    docker run -v pythonvolume:/app/files

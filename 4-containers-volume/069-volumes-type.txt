@@ -1,0 +1,5 @@
+Volume types
+
+- Anonymous volume: diretórios criados pela flag -v, porem com nome aleatório, mais usados para testes.
+- Named volume: Volumes com nomes, facilitando a referênciação destes para utiliza-los.
+- Bind mounts: Salvar os dados localmente na máquina sem o gerenciamento do Docker.

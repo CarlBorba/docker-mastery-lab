@@ -1,0 +1,4 @@
+Anonymous volumes
+
+- docker rn -v /data  // Cria um container com volume anônimo, definindo em qual diretório ira ficar salvo os dados.
+- docker volume ls  // Lista todos volumes do ambiente.
