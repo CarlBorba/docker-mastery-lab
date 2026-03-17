@@ -1,0 +1,11 @@
+Project update with Bind mounts
+
+- O bind mount não serve apenas para volume.
+- Pode ser utilizado para atualizar o projeto em tempo real, sem necessidade de build.
+- docker run -v path/DOCKER-MASTERY-LAB:/app    // Comando para rodar container com atualização do projeto de volumes.
+    path/DOCKER-MASTERY-LAB                     // Diretório raiz do projeto, para que o docker possa se atualizar em tempo real.
+    /app                                        //  Diretório raiz do container, matendo tudo atualizado.
+
+- Você usa isso durante o desenvolvimento para não precisar reconstruir a imagem sempre que corrigir um erro de digitação.
+- Vincule a raiz do seu projeto ao diretório de trabalho do contêiner.
+- O projeto é o volume do contêiner. Como o arquivo main.py faz parte desse espelho, qualquer alteração que você salvar será refletida no contêiner.

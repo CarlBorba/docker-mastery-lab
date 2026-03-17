@@ -1,0 +1,12 @@
+Bind mounts
+
+- É um volume que porem fica em um diretório local.
+- Ao invés de ser uma volume gerenciado pelo Docker, basicamente será uma referência para um diretóio local na máquina para salvar arquivos.
+- O diretório do container tem que ser igual ao workdir do dockerfile.
+- docker run -v /DOCKER-MASTERY-LAB/filesMachine:/data/filesDocker  // Comando para rodar container com volume local.
+    /DOCKER-MASTERY-LAB/filesMachine // ESQUERDA computador local, é onde os arquivos serão salvos localmente, o volume local.
+    /data/filesDocker // É o diretório dos arquivos que serão salvos no container que desejamos passar para o volume local.
+
+- Você usa isso quando só precisa de dados específicos (como um banco de dados ou uma pasta de uploads).
+- Vincular uma subpasta específica a outra subpasta específica.
+- Não altera seu código; apenas cria um "canal de armazenamento" para os dados.

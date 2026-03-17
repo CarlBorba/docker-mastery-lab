@@ -2,7 +2,7 @@
 FROM python:3.11-slim
 
 #Diretório de trabalho dentro do container
-WORKDIR /app
+WORKDIR /app/
 
 #Copiando o arquivo de requisitos para o container
 COPY requirements.txt .
