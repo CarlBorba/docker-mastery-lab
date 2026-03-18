@@ -1,5 +1,5 @@
 Restarting the container interactively
 
-- Quando usado o coamndo start, para reiniciar um contaner já usado, ele irá rodar atomaticamente em background.
+- Quando usado o comando start, para reiniciar um container já usado, ele irá rodar atomaticamente em background.
 - Para rodar ele interativamente, usar a flag -i
 - docker start -i <container>
