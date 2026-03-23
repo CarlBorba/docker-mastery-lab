@@ -1,0 +1,3 @@
+Remover volumes
+
+- docker volume rm <nome>   // O volume e todos os dados serão apagados 

@@ -1,0 +1,3 @@
+Create volumes manually
+
+- docker volume create <name>   // Cria um named volume que poderá ser usado na execução de algum container

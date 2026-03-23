@@ -1,0 +1,3 @@
+Read only volumes
+
+- docker run -v volume:/data:ro  // A flag :ro define o volume em modo de leitura(read only).

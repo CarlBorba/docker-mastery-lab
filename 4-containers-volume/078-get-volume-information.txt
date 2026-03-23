@@ -1,0 +1,3 @@
+Get volume information
+
+- docker volume inspect nome   // Para obter detalhes sobre o volume, exemplo: Nome, escopo, etc.

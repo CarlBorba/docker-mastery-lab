@@ -1,0 +1,3 @@
+Remove unused volumes
+
+- docker volume prune  // Remove os volumes que não estão sendo utilizados
