@@ -59,3 +59,13 @@
     * **Project Update**: Mounts the root project to the `WORKDIR` for real-time code updates.
 * **Named Volume**: Managed by Docker, best for database persistence.
     * `docker run -v my_data:/var/lib/mysql <image>`
+* **Create volumes manually**
+    * `docker volume create <name>`
+* **List Volumes**
+    * `docker volume ls`
+* **Remove Volumes**
+    * `docker rm <nome>`
+* **Clean up unused volumes**
+    * `docker volume prune`
+* **Read only volumes**
+    * `docker run -v volume:/data:ro`
